@@ -215,3 +215,5 @@ return y_predicted
 ### Summary
 This `perceptron.py` file implements a basic perceptron model for binary classification tasks. It includes methods for training (`fit`), prediction (`predict`), and testing the model on synthetic data, demonstrating its usage and performance through accuracy metrics and visualizations.
 
+# Output
+![Perceptron Model](././Figure_1.png)

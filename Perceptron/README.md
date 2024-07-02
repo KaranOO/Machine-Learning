@@ -1,5 +1,10 @@
 # perceptron.py
 
+## What is Perceptron?
+A neural network link that contains computations to track features and uses Artificial Intelligence in the input data is known as Perceptron. This neural links to the artificial neurons using simple logic gates with binary outputs. An artificial neuron invokes the mathematical function and has node, input, weights, and output equivalent to the cell nucleus, dendrites, synapse, and axon, respectively, compared to a biological neuron. 
+
+![Perceptron](Perceptron.png)
+
 #### 1. Imports and Helper Function
 ```python
 import numpy as np

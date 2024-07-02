@@ -1,5 +1,32 @@
 # KNN from Scratch
 
+## What is KNN(K-Nearest Neighbour)?
+The **k-nearest neighbors (KNN)** algorithm is a popular and simple machine learning method used for both classification and regression tasks. 
+
+![KNN](KNN.jpg)
+
+Here’s a brief overview:
+
+### Key Points:
+- **Non-Parametric**: KNN doesn't make any assumptions about the underlying data distribution.
+- **Supervised Learning**: It uses labeled training data to learn how to classify or predict new data points.
+- **Instance-Based**: Instead of learning a model, KNN stores all training data and makes predictions based on the closest data points.
+
+### How It Works:
+1. **Distance Calculation**: For a given data point, KNN calculates the distance to all other points in the training set. The most common distance metric used is Euclidean distance.
+2. **Finding Neighbors**: It identifies the 'k' closest data points (neighbors) to the given point.
+3. **Classification/Regression**:
+   - **Classification**: The class of the new data point is determined by a majority vote among its 'k' nearest neighbors.
+   - **Regression**: The value of the new data point is predicted by averaging the values of its 'k' nearest neighbors.
+
+### Applications:
+- **Pattern Recognition**
+- **Recommendation Systems**
+- **Data Mining**
+- **Financial Market Predictions**
+- **Intrusion Detection**
+
+## About Project
 This project implements the K-Nearest Neighbors (KNN) algorithm from scratch in Python. The KNN algorithm is a simple, supervised machine learning algorithm that can be used for both classification and regression tasks. This implementation focuses on the classification task using the Iris dataset from the `sklearn` library.
 
 ## Table of Contents

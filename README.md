@@ -9,3 +9,10 @@ From scratch we will learn ML, to understand the fundamentals of the Models and 
 > [!NOTE]
 > For instance, recommender systems use historical data to personalize suggestions. Netflix, for example, employs collaborative and content-based filtering to recommend movies and TV shows based on user viewing history, ratings, and genre preferences. Reinforcement learning further enhances these systems by enabling agents to make decisions based on environmental feedback, continually refining recommendations.
 
+# Life Cycle oF ML / Steps
+
+![Thumbnail](readmeImage/lifeCycle.png)
+
+- [x] What to do?
+- [ ] Consistent?
+- [ ] Curious?

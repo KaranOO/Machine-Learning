@@ -32,7 +32,6 @@ The life cycle of a machine learning project typically includes the following st
 ## Content
 
 This repository will feature implementations of various machine learning algorithms from scratch, including but not limited to:
-// [Link Text](URL)
 
 - [K-Nearest Neighbors (KNN)](KNN)
 - [Support Vector Machine (SVM)](SVM)

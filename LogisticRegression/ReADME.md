@@ -19,9 +19,9 @@ For example, we have two classes Class 0 and Class 1 if the value of the logisti
 ```bash
 git clone https://github.com/KaranOO/Machine-Learning.git
 ```
-2. Go to LinearRegression directory
+2. Go to LogisticRegression directory
 ```bash
-cd LinearRegression
+cd LogisticRegression
 ```
 3. Run the train.py File
 ```bash

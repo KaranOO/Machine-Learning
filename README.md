@@ -35,14 +35,14 @@ This repository will feature implementations of various machine learning algorit
 // [Link Text](URL)
 
 - [K-Nearest Neighbors (KNN)](KNN)
-- [Support Vector Machine (SVM)]()
-- [Linear Regression (LR)]()
-- [Logistic Regression (LogReg)]()
+- [Support Vector Machine (SVM)](SVM)
+- [Linear Regression (LR)](Linear_Regression)
+- [Logistic Regression (LogReg)](LogisticRegression)
 - [Decision Tree]()
 - [Random Forest]()
 - [Naive Bayes]()
 - [PCA (Principal Component Analysis)]()
-- [Perceptron]()
+- [Perceptron](Perceptron)
 - [K-Means]()
 
 Stay tuned for detailed explanations, code snippets, and practical examples for each algorithm.

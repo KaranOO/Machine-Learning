@@ -36,7 +36,7 @@ This repository will feature implementations of various machine learning algorit
 
 - [K-Nearest Neighbors (KNN)](KNN)
 - [Support Vector Machine (SVM)](SVM)
-- [Linear Regression (LR)](Linear Regression)
+- [Linear Regression (LR)](Linear-Regression)
 - [Logistic Regression (LogReg)](LogisticRegression)
 - [Decision Tree]()
 - [Random Forest]()

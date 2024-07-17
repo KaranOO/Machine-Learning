@@ -35,14 +35,14 @@ This repository will feature implementations of various machine learning algorit
 
 - [K-Nearest Neighbors (KNN)](KNN)
 - [Support Vector Machine (SVM)](SVM)
-- [Linear Regression (LR)](https://github.com/KaranOO/Machine-Learning/tree/a1ad96f0b6dfafa1b33b2ba88121892f9ee03c13/Linear%20Regression)
+- [Linear Regression (LR)](LinearRegression)
 - [Logistic Regression (LogReg)](LogisticRegression)
-- [Decision Tree]()
-- [Random Forest]()
-- [Naive Bayes]()
-- [PCA (Principal Component Analysis)]()
+- [Decision Tree](DecisionTree)
+- [Random Forest](RandomForest)
+- [Naive Bayes](NaiveBayes)
+- [PCA (Principal Component Analysis)](PCA)
 - [Perceptron](Perceptron)
-- [K-Means]()
+- [K-Means](KMeans)
 
 Stay tuned for detailed explanations, code snippets, and practical examples for each algorithm.
 
